@@ -1,18 +1,18 @@
-Store Data Analysis with Python
+##Store Data Analysis with Python
 
 project Overview
 
 This project analyzes store transaction data using Python to uncover sales trends, product performance, and meaningful business insights. 
 The analysis focuses on cleaning raw transactional data, exploring patterns, and summarizing findings that can support data-driven decision-making.
 
-Objectives
+##Objectives
 
 Clean and prepare transactional data for analysis
 Explore sales trends and product performance
 Identify key patterns and insights from the data
 Practice Python-based data analysis using real-world data
 
-Project Structure
+##Project Structure
 
   store-data-analysis-python/
 │
@@ -20,7 +20,7 @@ Project Structure
   ├── notebooks/             # Jupyter notebooks with analysiss
   ├── README.md              # Project documentation
 
-Findings
+##Findings
 
   Certain products consistently generated higher sales volume
   
@@ -30,7 +30,7 @@ Findings
   
   Visualization helped clearly identify patterns that were not obvious in raw data
 
-Reports
+##Reports
 
   The analysis results are documented through:
   
@@ -40,7 +40,7 @@ Reports
   
   Summary insights derived from exploratory data analysis
 
- Conclusion
+ ##Conclusion
 
   This project demonstrates the full data analysis workflow, from data preparation to insight generation. By using Python and common data analysis libraries, the project highlights how raw transactional data can be transformed into actionable insights. 
   The experience strengthened practical skills in data cleaning, analysis, and reporting.
