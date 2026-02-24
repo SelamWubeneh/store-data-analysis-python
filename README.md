@@ -15,6 +15,7 @@ Practice Python-based data analysis using real-world data
 _____
 
 ##Project Structure
+_____
 
   store-data-analysis-python/
 │
@@ -24,7 +25,7 @@ _____
 
 _____
 
-##Findings
+Findings
 
   Certain products consistently generated higher sales volume
   
@@ -36,7 +37,7 @@ _____
 
 _____
 
-##Reports
+Reports
 
   The analysis results are documented through:
   
@@ -48,7 +49,7 @@ _____
 
 _____
 
- ## Conclusion
+Conclusion
 
   This project demonstrates the full data analysis workflow, from data preparation to insight generation. 
   By using Python and common data analysis libraries, the project highlights how raw transactional data can be transformed into actionable insights. 
